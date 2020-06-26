@@ -18,7 +18,3 @@ python run_gcn_cora.py
 python run_graphsage_cora.py
 python run_gat_cora.py
 ```
-
-# DisscussionGroup
-- 公众号：**浅梦的学习笔记**    wechat ID: **deepctrbot**
-![wechat](https://github.com/shenweichen/GraphEmbedding/blob/master/pics/weichennote.png)
